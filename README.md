@@ -3,6 +3,7 @@ RogShotz - Luke Rowe
 Complete
 
 Compilation:
+
 *gcc -o eggnog eggnog.s
 *./eggnog
 
