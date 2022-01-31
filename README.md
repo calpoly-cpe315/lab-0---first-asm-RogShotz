@@ -1,3 +1,8 @@
+RogShotz - Luke Rowe
+Complete
+Markup : *Compilation:
+ *gcc -o eggnog eggnog.s
+
 # CPE 315 Lab 1 -- Eggnog Haiku
 
 ## Things to include in your README
