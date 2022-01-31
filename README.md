@@ -1,7 +1,11 @@
 RogShotz - Luke Rowe
+
 Complete
+
 Compilation:
+
 *gcc -o eggnog eggnog.s
+
 *./eggnog
 
 # CPE 315 Lab 1 -- Eggnog Haiku
