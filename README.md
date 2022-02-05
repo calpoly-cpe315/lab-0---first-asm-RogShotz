@@ -6,6 +6,8 @@ Compilation:
 * gcc -o eggnog eggnog.s
 * ./eggnog
 
+No Issues, other than connection to the arm servers from my linux machine... it does suck having to go to windows to do that.
+
 # CPE 315 Lab 1 -- Eggnog Haiku
 
 ## Things to include in your README
