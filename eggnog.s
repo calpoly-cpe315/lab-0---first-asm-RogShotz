@@ -8,6 +8,12 @@ main:
         ldr x0, =message
         bl printf
 
+        ldr x0, =message2
+        bl printf
+
+        ldr x0, =message3
+        bl printf
+
     // initialize the return value in the return register
         mov x0, 0
 
@@ -19,4 +25,10 @@ main:
         ret
 
 message:
-        .asciz "There once was an egg\nwho noticed it wanted more,\nit became eggnog\n"
+        .asciz "There once was an egg\n"
+
+message2:
+        .asciz "who noticed it wanted more,\n"
+
+message3:
+        .asciz "it became eggnog\n"
